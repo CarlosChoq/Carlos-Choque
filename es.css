@@ -1,0 +1,113 @@
+body{
+    background-color:  rgb(27, 26, 26);
+}
+nav{
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    border : 1px solid black ;
+    position:absolute; 
+    width: 250px;
+    height: 20px;
+    top: 250px;
+    left: 970px;
+    text-align: center;
+}
+p{
+    color: white;
+}
+h1{
+    color:white;
+}
+
+div.america{
+    border-radius: 15px;
+    background-color: rgb(252, 0, 0);
+    border : 1px solid black ;
+    width: 300px;
+    height: 450px;
+    left: 970px;
+    color: white;
+}
+div.ANCHAY{
+    position:absolute;
+    border-radius: 15px;
+    background-color: rgb(252, 248, 0);
+    border : 1px solid black ;
+    width: 300px;
+    height: 450px;
+    left: 320px;
+    top: 420px;
+    color: rgb(0, 0, 0);
+}
+div.rompiendo{
+    position:absolute;
+    border-radius: 15px;
+    background-color: rgb(0, 255, 0);
+    border : 1px solid black ;
+    width: 300px;
+    height: 450px;
+    left: 650px;
+    top: 420px;
+    color: rgb(255, 255, 255);
+}
+
+div.Justicia{
+    position:absolute;
+    border-radius: 15px;
+    background-color: rgb(25, 0, 252);
+    border : 1px solid black ;
+    width: 300px;
+    height: 450px;
+    left: 970px;
+    top: 420px;
+    color: rgb(0, 0, 0);
+}
+div.img{
+    position:absolute;
+    left: 100px;
+    top: 900px;
+}
+div.link{
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+    border : 1px solid black ;
+    position: absolute;
+    width: 500px;
+    height: 190px;
+    left: 670px;
+    top: 970px;
+    color: white;
+}
+
+div.manka{
+    border-radius: 15px;
+    background-color: rgb(42, 236, 3);
+    border : 1px solid black ;
+    position: absolute;
+    width: 500px;
+    height: 190px;
+    left: 150px;
+    top: 1300px;
+    color: white;
+}
+div.img2{
+    position:absolute;
+    left: 670px;
+    top: 1250px;
+}
+div.tinku{
+    border-radius: 15px;
+    background-color: rgb(255, 188, 5);
+    border : 1px solid black ;
+    position: absolute;
+    width: 500px;
+    height: 190px;
+    left: 670px;
+    top: 1700px;
+    color: white;
+}
+div.img3{
+    position:absolute;
+    left: 100px;
+    top: 1600px;
+}

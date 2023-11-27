@@ -1,0 +1,58 @@
+body{
+    background-color:  rgb(27, 26, 26);
+}
+nav{
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    border : 1px solid black ;
+    position:absolute; 
+    width: 250px;
+    height: 20px;
+    top: 250px;
+    left: 970px;
+    text-align: center;
+}
+p{
+    color: white;
+}
+h1{
+    color:white;
+}
+.audio{
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    border : 1px solid black ;
+    position: absolute;
+    width: 300px;
+    height: 55px;
+    top: 280px;
+    left: 970px;
+}
+p{
+    color:white;
+}
+div.Origen{
+    border-radius: 15px;
+    background-color: rgb(248, 12, 12);
+    border : 1px solid black ;
+    width: 610px;
+    height: 190px;
+    left: 500px;
+    color: white;
+}
+div.ritmos{
+    border-radius: 15px;
+    background-color: rgb(42, 236, 3);
+    border : 1px solid black ;
+    position: absolute;
+    width: 610px;
+    height: 230px;
+    left: 650px;
+    top: 400px;
+    color: white;
+}
+div.img{
+    position:absolute;
+    left: 100px;
+    top: 650px;
+}
